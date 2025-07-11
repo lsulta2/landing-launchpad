@@ -51,7 +51,7 @@ nav {
 
 .banner-title {
   font-weight: bold;
-  font-size: 40px;
+  font-size: 45px;
 }
 
 main {
@@ -98,7 +98,7 @@ main {
 /* review section */
 
 .review-section {
-  padding: 30px 30px;
+  padding: 40px 40px;
   text-align: center;
 }
 
@@ -121,3 +121,37 @@ main {
 }
 
 /* form section starts */
+
+.form-title {
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.form-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px 40px;
+  background-color: rgb(249, 247, 247);
+  border-radius: 10px;
+}
+
+.contact-form {
+  max-height: 550px;
+  padding-bottom: 18px;
+}
+
+.contact-form label {
+  font-weight: bold;
+  font-size: 15px;
+  gap: 10px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 20px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  font-size: 16px;
+  background-color: white;
+}
