@@ -23,7 +23,7 @@
 }
 
 .para-text {
-  color: #252432;
+  color: #33323d;
 }
 
 /* header style */
@@ -161,7 +161,7 @@ main {
 
 /*footer section  */
 .footer-section {
-  padding: 100px 200px;
+  padding: 80px 200px;
   text-align: center;
   border: 1 solid rgb(43, 42, 42);
 }
@@ -172,7 +172,6 @@ main {
 }
 .footer-list li {
   list-style-type: none;
-  padding-bottom: 20px;
 }
 
 .footer-title {
